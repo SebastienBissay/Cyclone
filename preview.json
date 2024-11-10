@@ -1,1 +1,26 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "NUMBER_OF_ITERATIONS": 5000,
+    "VELOCITY": 0.25,
+    "STROKE_COLOR": {
+      "red": 0.0,
+      "green": 0.0,
+      "blue": 30.0,
+      "alpha": 12.75
+    },
+    "NUMBER_OF_PARTICLES": 1000,
+    "INITIAL_RADIUS": 125.0,
+    "SEED": 11,
+    "WIDTH": 1000,
+    "ANGLE_FACTOR": 3.0,
+    "HEIGHT": 1000,
+    "BLENDMODE": 128,
+    "NOISE_SCALE": 0.02,
+    "BACKGROUND_COLOR": {
+      "red": 235.0,
+      "green": 235.0,
+      "blue": 245.0,
+      "alpha": 255.0
+    }
+  }
+}
